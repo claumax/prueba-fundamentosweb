@@ -1,0 +1,41 @@
+body {
+	margin: 0;
+    border: 0;
+    padding: 0;
+	font-family: Cabin, Lobster, 'Oswald', sans-serif;
+    ;
+	background-color: #ffffff;
+}
+.bg-black {
+    font-family: Cabin;
+    background-color: #373A3C;
+    text-align: left;
+    padding: 0;
+}
+.logorico {
+    font-family: Lobster;
+    font-weight: regular;
+}
+.navbar {
+  background-color:#17a2b8;}
+
+  header {
+    background-image: url('../img/foto1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-bottom: 10rem;
+    font-family: oswald;
+    }
+    footer  {
+        margin: 0 0.25em 0.5em 0.25em;
+        margin-top: 4.5rem;
+        padding: 3.125rem;
+        text-align: center;
+        background-color:transparent;
+        font-family: Lobster ;
+        font-size:  20px;
+        }
+        .texto-footer {
+            font-size: 30px;
+        }
